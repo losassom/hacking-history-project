@@ -6,5 +6,5 @@ repo_url: https://github.com/thePortus/his4936-starter
 repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
-- Some Page: 'some_page.md'
+- Production of War Films: 'war_film_production.md'
 - Credits: 'credits.md'
